@@ -1,0 +1,5 @@
+Nome;Salario
+Ana;5000
+Joao;2300
+Bia;6200
+Jose;9000
